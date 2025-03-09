@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/1chandansharma.png" width="200" style="border-radius:50%" alt="Profile Picture">
+</div>
 # 👋 Hi, I'm Chandan Sharma Thakur
 
 <div align="center">
