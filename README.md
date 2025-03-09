@@ -5,10 +5,6 @@
     <p>
       <img src="https://komarev.com/ghpvc/?username=1chandansharma&label=Profile%20views&color=0e75b6&style=flat" alt="1chandansharma" />
     </p>
-  </div>
-  <img align="right" width="400" src="https://raw.githubusercontent.com/1chandansharma/1chandansharma/main/developer.png" alt="Full Stack Developer">
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="colored line">
 </p>
