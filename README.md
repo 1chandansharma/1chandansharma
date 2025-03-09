@@ -100,11 +100,6 @@ Here are some of my notable projects:
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=1chandansharma&icon=5&color=6" alt="Visit Count">
-</div>
-
 ---
 
 <div align="center">
