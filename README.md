@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Chandan Sharma Thakur
-<div align="left">
+<div align="right">
   <img src="https://raw.githubusercontent.com/1chandansharma/1chandansharma/main/developer.png" width="300" alt="Full Stack Developer">
 </div>
 <p align="center">
