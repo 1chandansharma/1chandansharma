@@ -69,8 +69,11 @@ An aspiring Full-Stack Developer currently pursuing my Bachelor's in Computer Sc
 Here are some of my notable projects:
 
 1. **Portfolio Website** - A responsive personal portfolio website showcasing my skills and projects.
-2. **Task Manager App** - A to-do list application with drag-and-drop functionality.
-3. **E-Commerce Website** - A full-stack e-commerce store with cart and checkout functionality.
+2. **E-Commerce Website** - A full-stack e-commerce store with cart and checkout functionality.
+3. **Task Manager App** - A to-do list application with drag-and-drop functionality.
+4. **Alarm-Clock** - An alarm clock with set alarm and it rings and set time.
+5. **Digital-Clock** - An digital clock which shows realtime of different location based on where it is being used.
+6. **Password-Generator** - An strong passoword with proper functionality.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="colored line">
