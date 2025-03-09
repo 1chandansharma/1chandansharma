@@ -10,12 +10,12 @@
 </p>
 
 ## 💫 About Me
-An aspiring Full-Stack Developer currently pursuing my Bachelor's in Computer Science and IT at Madan Bhandari Memorial College. I'm passionate about creating user-friendly web applications and continuously expanding my technical knowledge.
+I am student with learning passion as Full-Stack Developer currently pursuing my Bachelor's in Computer Science and IT at Madan Bhandari Memorial College. I'm passionate about creating user-friendly web applications and continuously expanding my technical knowledge with daily learning, creating new projects and participating in hackathons.
 
-- 🌱 I'm currently learning **React and MongoDB**
-- 💼 Working on personal projects to build my portfolio
+- 🌱 I'm currently learning **Node.js,MongoDB and DeveOps**
+- 💼 Working on various projects to build strong portfolio
 - 🎓 Studying Computer Science and Information Technology
-- 🌍 I'm also experienced in translation, transcription, and annotation
+- 🌍 I'm also experienced in video editing, translation, transcription, and annotation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="colored line">
