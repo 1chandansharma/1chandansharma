@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://github.com/1chandansharma.png" width="200" style="border-radius:50%" alt="Profile Picture">
+  <img src="https://raw.githubusercontent.com/1chandansharma/1chandansharma/main/developer.png" width="300" alt="Full Stack Developer">
+</div>
+<div align="center">
+  <br>
+  <img src="https://visitcount.itsvg.in/api?id=1chandansharma&icon=5&color=6" alt="Visit Count">
 </div>
 # 👋 Hi, I'm Chandan Sharma Thakur
 
