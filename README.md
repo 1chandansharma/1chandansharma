@@ -1,11 +1,10 @@
+# 👋 Hi, I'm Chandan Sharma Thakur
 <div align="center">
   <img src="https://raw.githubusercontent.com/1chandansharma/1chandansharma/main/developer.png" width="300" alt="Full Stack Developer">
 </div>
-<div align="center">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=1chandansharma&icon=5&color=6" alt="Visit Count">
-</div>
-# 👋 Hi, I'm Chandan Sharma Thakur
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1chandansharma&label=Profile%20views&color=0e75b6&style=flat" alt="1chandansharma" />
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6A43EC&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Web+Developer;CS+Student;Freelancer" alt="Typing SVG" />
